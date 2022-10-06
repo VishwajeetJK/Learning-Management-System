@@ -1,2 +1,3 @@
 # Learning-Management-System
-This project gives an overview of a leaning management system.
+This project gives an overview of a learning management system.
+More efficient now.
